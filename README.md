@@ -1,5 +1,7 @@
 # Real-Name Authentication System
 
+[English](README.md) | [简体中文](README_zh-CN.md)
+
 ## Files
 - `api_server.py` — FastAPI backend (connects to MariaDB)
 - `auth_plugin.py` — NoneBot2 plugin
